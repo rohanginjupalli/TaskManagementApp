@@ -32,17 +32,31 @@ A simple and efficient task management web application that helps users organize
 
 ## 📂 Folder Structure
 
-src/
-│-- components/
-│ │-- Home.jsx # Landing/dashboard view
-│ │-- Navbar.jsx # Top navigation bar
-│ │-- Notes.jsx # Notes section
-│ │-- Task.jsx # Individual task display
-│ │-- EditTask.jsx # Task editing form
-│-- context/
-│ │-- Context.jsx # Global state management (Context API)
-│-- App.jsx # Root component
-│-- main.jsx # Application entry point
+task-notes-dashboard/
+│
+├── public/                 # Static assets
+│
+├── src/
+│   ├── assets/             # Images, icons
+│   │
+│   ├── components/         # Reusable UI components
+│   │   ├── Home.jsx        # Landing/dashboard view
+│   │   ├── Navbar.jsx      # Top navigation bar
+│   │   ├── Notes.jsx       # Notes section
+│   │   ├── Task.jsx        # Individual task display
+│   │   └── EditTask.jsx    # Task editing form
+│   │
+│   ├── context/            # Global state management
+│   │   └── Context.jsx     # Context API provider
+│   │
+│   ├── App.jsx             # Root component
+│   ├── App.css             # Global styles
+│   ├── index.css           # Entry styles
+│   └── main.jsx            # Application entry point
+│
+├── package.json            # Dependencies & scripts
+└── .gitignore              # Ignored files
+
 
 ------------------------------------------
 
