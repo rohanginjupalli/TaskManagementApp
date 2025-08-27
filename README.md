@@ -1,6 +1,7 @@
 # 📝 Task Notes Dashboard  
 A simple and efficient task management web application that helps users organize tasks and notes in one place. Built with a clean UI and fundamental **frontend + backend concepts**.
-
+it's an user-friendly appilication
+Through this appilication i have gained an pratical experience in React.Js
 ------------------------------------------
 
 ## 🚀 Features
@@ -13,9 +14,8 @@ A simple and efficient task management web application that helps users organize
 ------------------------------------------
 
 ## 🛠️ Tech Stack
-- **Frontend**: HTML, CSS, JavaScript  
+- **Frontend**: HTML, CSS, JavaScript  , REACT.js
 - **Backend**: Basic (Node , Express .js)  
-- **Templating**: EJS (for dynamic rendering)  
 - **Version Control**: Git & GitHub  
 
 ------------------------------------------
@@ -66,10 +66,12 @@ task-notes-dashboard/
 
 ## 🚀 Getting Started  
 
+Extract the folder into the code editor
+
 Install dependencies:  
 ```bash
 npm install
-npm run dev
+npm run dev or npm start
 
 
 
