@@ -30,7 +30,11 @@ A simple and efficient task management web application that helps users organize
 
 -----------------------------------------
 
+
+
 ## 📂 Folder Structure
+
+```
 
 task-notes-dashboard/
 │
@@ -57,7 +61,7 @@ task-notes-dashboard/
 ├── package.json            # Dependencies & scripts
 └── .gitignore              # Ignored files
 
-
+```
 ------------------------------------------
 
 ## 🚀 Getting Started  
